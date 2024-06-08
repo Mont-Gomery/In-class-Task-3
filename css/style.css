@@ -1,0 +1,53 @@
+/*Kyle-Jack Essien*/
+/* 8963634 */
+body{
+    font: italic small-caps bold 18px/1.7 cursive , sans-serif;
+
+    background-color: hsla(40, 89%, 50%, 80%) ;
+
+    width: 80vw;
+    height: 100vh;
+}
+.structural{
+ margin: 10px;
+ padding: 10px;
+
+}
+
+h2{
+    color: #cda;
+    font-size: 2em;
+}
+header{
+background-color: hsl(34, 67, 90%);
+
+}
+main{
+    background-color: hsl(89, 90%, 45%);
+    width: 68%;
+    float: left;
+}
+aside{
+    background-color: hsl(70, 45%, 78%);
+    width: 22%;
+    float: right;
+}
+#par1{
+    color: rgb(100,45, 255);
+}
+#par2{
+    color: rgb(45, 123, 98);
+}
+
+#par3{
+    color: rgb(78, 123, 35);
+}
+a :hover{ 
+color: #456;
+}
+footer p{
+    font-size:small;
+}
+footer {
+    clear: both;
+}
